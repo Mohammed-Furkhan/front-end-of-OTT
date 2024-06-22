@@ -1,0 +1,315 @@
+.search input[type=text]{
+    float: right;
+    margin: 7px;
+    width: 300px;
+    height: 25px;
+    border-radius: 25px;
+    border: none;
+    background-color: whitesmoke;
+    border-color: white;
+    border-style: solid;
+}
+
+.box{
+    width: 50px;
+    height: 20px;
+
+}
+
+body{
+    background-color: black;
+}
+
+h1{
+    color: white;
+}
+
+
+.first{
+    position: absolute;
+    top: 185px;
+    width: 250px;
+    height:250px;
+    padding-left: 5px;
+    transition-property: width, height,background;
+    transition-duration: 1s;
+}
+
+.first:hover{
+    width: 240px;
+    height: 240px;
+
+}
+
+.second{
+    position: absolute;
+    top: 185px;
+    left: 175px;
+    width: 250px;
+    height: 250px;
+    padding-left: 90px;
+    transition-property: width, height,background;
+    transition-duration: 1s;
+    
+}
+
+.second:hover{
+    width: 240px;
+    height: 240px;
+}
+
+.third{
+    position: absolute;
+    top: 185px;
+    left: 428px;
+    width: 250px;
+    height: 250px;
+    padding-left: 90px;
+    transition-property: width, height,background;
+    transition-duration: 1s;
+}
+
+.third:hover{
+    width: 240px;
+    height: 240px;
+}
+
+.four{
+    position: absolute;
+    top: 185px;
+    left: 680px;
+    width: 250px;
+    height: 250px;
+    padding-left: 90px;
+    transition-property: width, height,background;
+    transition-duration: 1s;
+}
+
+.four:hover{
+    width: 240px;
+    height: 240px;
+}
+
+.five{
+    position: absolute;
+    top: 185px;
+    left: 933px;
+    width: 250px;
+    height: 250px;
+    padding-left: 90px;
+    transition-property: width, height,background;
+    transition-duration: 1s;
+}
+
+.five:hover{
+    width: 240px;
+    height: 240px;
+}
+
+.six{
+    position: absolute;
+    top: 185px;
+    left: 1185px;
+    width: 250px;
+    height: 250px;
+    padding-left: 90px;
+    transition-property: width, height,background;
+    transition-duration: 1s;
+}
+
+.six:hover{
+    width: 240px;
+    height: 240px;
+
+}
+
+.tm{
+    position: absolute;
+    top: 450px;
+    color: white;
+    font-style: italic;
+
+}
+
+.seven{
+    position: absolute;
+    top: 550px;
+    width: 250px;
+    height:250px;
+    padding-left: 5px;
+    transition-property: width, height,background;
+    transition-duration: 1s;
+}
+
+.seven:hover{
+    width: 240px;
+    height: 240px;
+}
+
+.eight{
+    position: absolute;
+    top: 550px;
+    left: 175px;
+    width: 250px;
+    height: 250px;
+    padding-left: 90px;
+    transition-property: width, height,background;
+    transition-duration: 1s;
+}
+
+.eight:hover{
+    width: 240px;
+    height: 240px;
+
+}
+
+.nine{
+    position: absolute;
+    top: 550px;
+    left: 428px;
+    width: 250px;
+    height: 250px;
+    padding-left: 90px;
+    transition-property: width, height,background;
+    transition-duration: 1s;
+}
+
+.nine:hover{
+    width: 240px;
+    height: 240px;
+    
+}
+
+.ten{
+    position: absolute;
+    top: 550px;
+    left: 680px;
+    width: 250px;
+    height: 250px;
+    padding-left: 90px;
+    transition-property: width, height,background;
+    transition-duration: 1s;
+}
+
+.ten:hover{
+    width: 240px;
+    height: 240px;
+    
+}
+
+.eleven{
+    position: absolute;
+    top: 550px;
+    left: 933px;
+    width: 250px;
+    height: 250px;
+    padding-left: 90px;
+    transition-property: width, height,background;
+    transition-duration: 1s;
+}
+
+.eleven:hover{
+    width: 240px;
+    height: 240px;
+    
+}
+
+.twelve{
+    position: absolute;
+    top: 550px;
+    left: 1185px;
+    width: 250px;
+    height: 250px;
+    padding-left: 90px;
+    transition-property: width, height,background;
+    transition-duration: 1s;
+}
+
+.twelve:hover{
+    width: 240px;
+    height: 240px;
+    
+    
+}
+
+.d-flex{
+    position: absolute; 
+    top: 30px;
+    left: 1185px;
+    width: 250px;
+    
+}
+
+.display{
+    position: absolute; 
+    top: 20px;
+    left: 600px;
+    width: 50px;
+    height: 50px;
+    
+}
+
+.ott {
+    background-color: greenyellow;
+    font-style: oblique;
+    color: black;
+    left: 30px;
+}
+
+
+
+
+
+.material-icons-1{
+    padding-left: 1200px;
+    color: #0b0b0b;
+    
+    font-family: 'Material Icons';
+    font-weight: 20px;
+    font-style: normal;
+    font-size: 24px;  /* Preferred icon size */
+    display: inline-block;
+    line-height: 1;
+    text-transform: none;
+    letter-spacing: normal;
+    word-wrap: normal;
+    white-space: nowrap;
+    direction: ltr;
+  
+    /* Support for all WebKit browsers. */
+    -webkit-font-smoothing: antialiased;
+    /* Support for Safari and Chrome. */
+    text-rendering: optimizeLegibility;
+  
+    /* Support for Firefox. */
+    -moz-osx-font-smoothing: grayscale;
+  
+    /* Support for IE. */
+    font-feature-settings: 'liga';
+  }
+
+.material-icons-2{
+    padding-left: 10px;
+    color: black;
+}
+
+
+
+.bars{
+    padding-left: 1300px;
+}
+
+.search{
+    padding-left: 1290px;
+    padding-top: 5px;
+}
+  
+
+
+
+
+
+
+
+
+  
